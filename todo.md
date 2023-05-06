@@ -11,7 +11,7 @@
 9. Try Paralus for kubectl access
 10. Try Flatcar Linux (and get to know it)
 11. Linux from Scratch
-12. Kubernetes IPv6
+12. Kubernetes IPv6 (e.g use the /64 net of each host to create a truly public IPv6 cluster)
 
 ## In Progress
 
