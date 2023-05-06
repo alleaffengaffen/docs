@@ -17,10 +17,6 @@
 
 - Weddingphone (got all the necessary hardware, not it's time to fully put it together
 
-## Running
-- flasche
-- kuriosiente
-
 ## Notes
 
 This bucketlist doesn't contain anything you need to do, this is just things you could do. There is a reserved window every second Friday to hack something.
