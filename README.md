@@ -11,6 +11,6 @@ Docs that have no space somewhere else
 - Install cluster using kubespray (and maybe Terraform + ansible provider inventory)
 - Figure out if kOps should be used and with which platform (e.g add CI)
 - Try Paralus for kubectl access
--. Try Flatcar Linux (and get to know it)
+- Try Flatcar Linux (and get to know it)
 - Linux from Scratch
 - Kubernetes IPv6 (e.g use the /64 net of each host to create a truly public IPv6 cluster)
