@@ -29,10 +29,11 @@ We separate this logically and technically where possible to avoid damage to imp
 
 ## Bucketlist
 
+- Extend chezmoi install scripts to skip if already installed & pin versions
 - Cluster-API management cluster using kind moved to openstack
+- Implement Azure-nuke (& Hetzner) in account-nuker
 - Postgresql Operator (Crunchydata or Zalando)
 - Production-ready K3s Cluster on tailscale (for services that are better self-hosted)
-- Create a custom GitPod (or Codespaces) dotfiles/container/template to quickly develop new things on Argo CD
 - Try Crossplane to provision EKS clusters
 - Install cluster using kubespray (and maybe Terraform + ansible provider inventory)
 - Figure out if kOps should be used and with which platform (e.g add CI)
