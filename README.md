@@ -13,9 +13,9 @@ We separate this logically and technically where possible to avoid damage to imp
 - dedicated DNS alleaffengaffen.ch
 - dedicated credit card (Visa) 
 - Automation where possible or effective, but not everywhere (we want to understand things before automating them)
-- if possible use the alleaffengaffen org on github or infomaniak to do things if there are no specific reasons for another provider
+- prefered cloud providers are Hetzner or Infomaniak (GH for everything else)
 - relies on my private DR to keep access to important accounts and data
-- Github as IDP is preferred over dediacted accounts
+- Github as IDP is preferred over dedicated accounts
 - track things in issues directly in the coresponding repository
 
 ## Data
