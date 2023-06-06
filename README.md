@@ -29,7 +29,6 @@ We separate this logically and technically where possible to avoid damage to imp
 
 ## Bucketlist
 
-- Extend chezmoi install scripts to skip if already installed & pin versions
 - Cluster-API management cluster using kind moved to openstack
 - Implement Azure-nuke (& Hetzner) in account-nuker
 - Postgresql Operator (Crunchydata or Zalando)
